@@ -37,7 +37,7 @@ src/
  routes/
  middlewares/
  config/
- app.js
+ server.js
 
 
 L'application suit une architecture **MVC** afin de séparer les responsabilités entre les différentes parties de l'application.
@@ -54,11 +54,11 @@ POST /api/auth/login
 ### Dépenses
 
 ```http
-GET    /api/expenses
-GET    /api/expenses/:id
-POST   /api/expenses
-PUT    /api/expenses/:id
-DELETE /api/expenses/:id
+GET    /api/depense
+GET    /api/depense/:id
+POST   /api/depense
+PUT    /api/depense/:id
+DELETE /api/depense/:id
 ```
 
 ##  Installation
