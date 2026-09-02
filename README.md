@@ -1,4 +1,4 @@
-# 💰 API de gestion de dépenses
+#  API de gestion de dépenses
 
 API REST permettant de gérer et suivre les dépenses d'un utilisateur.
 Le projet a été développé avec **Node.js, Express.js et PostgreSQL**, en suivant une architecture **MVC**.
@@ -28,16 +28,16 @@ Le projet a été développé avec **Node.js, Express.js et PostgreSQL**, en sui
 * **JavaScript**
 * **REST API**
 
-## 📁 Architecture du projet
+##  Architecture du projet
 
- text
+
 src/
-├── controllers/
-├── models/
-├── routes/
-├── middlewares/
-├── config/
-└── app.js
+ controllers/
+ models/
+ routes/
+ middlewares/
+ config/
+ app.js
 
 
 L'application suit une architecture **MVC** afin de séparer les responsabilités entre les différentes parties de l'application.
