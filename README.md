@@ -93,7 +93,7 @@ En développement :
 
 
 ```bash
-nodemon server.js
+npm start 
 ```
 
 L'API sera accessible sur :
