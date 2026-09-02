@@ -46,10 +46,10 @@ L'application suit une architecture **MVC** afin de séparer les responsabilité
 
 ### Utilisateurs
 
-http
-POST /api/auth/register
-POST /api/auth/login
-
+```http
+POST /api/users/register
+POST /api/users/login
+```
 
 ### Dépenses
 
