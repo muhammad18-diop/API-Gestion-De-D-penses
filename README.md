@@ -82,8 +82,8 @@ Créer un fichier `.env` :
 
 ```env
 PORT=3000
-DATABASE_URL=your_database_url
-JWT_SECRET=your_secret_key
+DATABASE_URL=mot_de_passe_db
+JWT_SECRET=code_JWT
 ```
 
 ### 4. Démarrer le serveur
